@@ -1,0 +1,10 @@
+.DS_Store
+.matplotlib/
+.venv/
+__pycache__/
+
+input/
+working/
+
+*.pth
+*.pyc
